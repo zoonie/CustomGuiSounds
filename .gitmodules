@@ -1,0 +1,3 @@
+[submodule "CodecJLayerMP3"]
+	path = src/main/java/CodecJLayerMP3
+	url = https://github.com/fireandfuel/CodecJLayerMP3
