@@ -1,9 +1,9 @@
 [
 {
-    "modid": "CustomGuiMusic",
-    "name": "Custom Gui Music",
-    "url": "https://github.com/zoonie/CustomGuiMusic",
-    "description": "Play your own music while in gui menus.",
+    "modid": "CustomGuiSounds",
+    "name": "Custom Gui Sounds",
+    "url": "https://github.com/zoonie/CustomGuiSounds",
+    "description": "Play your own sounds while in gui menus.",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "authorList": ["zoonie"],

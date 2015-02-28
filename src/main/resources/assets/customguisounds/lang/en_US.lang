@@ -1,0 +1,13 @@
+gui.files=Sound Files
+save=Save
+gui.add=Add New Sound...
+play=Play
+stop=Stop
+cancel=Cancel
+gui.sounds.list=Your Sounds
+volume=Volume
+sound=Sound
+gui=Gui
+loop=Loop
+gui.resume=Resume on Gui reopen
+gui.sound.close=Gui close sound

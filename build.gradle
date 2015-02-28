@@ -18,7 +18,7 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.0.0"
-group= "com.zoonie.customguimusic" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+group= "com.zoonie.customguisounds" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "CustomGuiMusic-1.8"
 
 minecraft {
